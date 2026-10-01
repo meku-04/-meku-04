@@ -1,3 +1,3 @@
-# med 000
+# med-000
 
 ## Hello,World
